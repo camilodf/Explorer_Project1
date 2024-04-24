@@ -1,3 +1,4 @@
+![image](https://github.com/camilodf/portfolio-moveis-customizados/assets/38727814/1945a503-dae7-40b0-b895-dd868409b4e4)
 # Portfólio de Móveis Customizados
 
 Bem-vindo ao meu portfólio de Móveis Customizados! Este é um projeto fictício criado com o objetivo de demonstrar minhas habilidades em desenvolvimento web.
